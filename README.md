@@ -53,14 +53,9 @@ The system works on **top-down real-time videos**, detects people, and estimates
 
 ## Tools & Technologies 🛠️
 
-### Software & Platforms
-
 * Python 3.8
 * Visual Studio Code
 * Google Colaboratory
-
-### Libraries
-
 * OpenCV Python 4.2.0.34
 * NumPy 1.18.5
 * Imutils 0.5.3
