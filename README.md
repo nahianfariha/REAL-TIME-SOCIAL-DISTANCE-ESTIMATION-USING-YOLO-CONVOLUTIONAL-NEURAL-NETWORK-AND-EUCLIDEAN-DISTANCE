@@ -1,9 +1,4 @@
 # Real-Time Social Distance Estimation Using YOLO CNN and Euclidean Distance.
-
-## Project Overview
-
-This project presents a **real-time social distance estimation system** using a **YOLO (You Only Look Once) Convolutional Neural Network** and **Euclidean distance**. The system detects people from top-down real-time video footage and estimates whether social distancing is maintained by measuring distances between detected individuals.
-
 The work was carried out as an **undergraduate thesis** for the degree of **B.Sc. in Computer Science and Engineering** at the **International Islamic University Chittagong (IIUC)**.
 
 ---
@@ -16,13 +11,6 @@ The system works on **top-down real-time videos**, detects people, and estimates
 
 ---
 
-
-## Problem Statement 🚨
-
-Public gatherings increase the likelihood of virus transmission due to close physical contact. Maintaining and monitoring social distance in places such as hospitals, shops, and institutions is challenging. While older CNN-based object detection methods exist, there is a need for a **simpler, faster, and more accurate** approach for real-time social distance estimation.
-
----
-
 ## Objectives 🎯
 
 * To estimate social distance in **real-time** from video footage
@@ -32,32 +20,10 @@ Public gatherings increase the likelihood of virus transmission due to close phy
 
 ---
 
-## System Architecture & Methodology ⚙️
+## Methodology ⚙️
 <p align="center">
   <img src="img/arc1.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
 </p>
-### Workflow Diagram
-
-```text
-Input Video
-    │
-    ▼
-Video → Frames (OpenCV)
-    │
-    ▼
-YOLOv3 (Person Detection)
-    │
-    ▼
-Centroid Extraction
-    │
-    ▼
-Euclidean Distance Calculation
-    │
-    ▼
-Social Distance Violation Detection
-```
-
-### Methodology Steps
 
 1. **Input Video**: Videos are collected from six different environments.
 2. **Frame Extraction**: Videos are converted into frames using OpenCV.
@@ -68,7 +34,21 @@ Social Distance Violation Detection
 
    * Distance < 50 pixels → ❌ Red bounding box (violation)
    * Distance ≥ 50 pixels → ✅ Green bounding box (safe)
-
+<p align="center">
+  <img src="img/arc2.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+</p>
+<p align="center">
+  <img src="img/arc3.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+</p>
+<p align="center">
+  <img src="img/arc4.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+</p>
+<p align="center">
+  <img src="img/arc5.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+</p>
+<p align="center">
+  <img src="img/arc7.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+</p>
 ---
 
 ## Tools & Technologies 🛠️
@@ -76,7 +56,7 @@ Social Distance Violation Detection
 ### Software & Platforms
 
 * Python 3.8
-* Spyder (Scientific Python Development Environment)
+* Visual Studio Code
 * Google Colaboratory
 
 ### Libraries
@@ -87,8 +67,6 @@ Social Distance Violation Detection
 * Matplotlib
 * Argparse
 * SciPy 1.4.1
-
-
 
 ## Experimental Setup & Results 📊
 
