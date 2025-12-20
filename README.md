@@ -1,6 +1,10 @@
 # Real-Time Social Distance Estimation Using YOLO CNN and Euclidean Distance.
 The work was carried out as an **undergraduate thesis** for the degree of **B.Sc. in Computer Science and Engineering** at the **International Islamic University Chittagong (IIUC)**.
-🐍 **Python** &nbsp;&nbsp;📸 **OpenCV** &nbsp;&nbsp;🎯 **YOLOv3** &nbsp;&nbsp;🖼️ **COCO Dataset** &nbsp;&nbsp;🔢 **NumPy**
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.5-blue?logo=opencv&logoColor=white)](https://opencv.org/)
+[![YOLOv3](https://img.shields.io/badge/YOLOv3-ObjectDetection-orange?logo=yolov5&logoColor=white)](https://pjreddie.com/darknet/yolo/)
+[![COCO Dataset](https://img.shields.io/badge/COCO-Dataset-red?logo=dataset&logoColor=white)](https://cocodataset.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24-blue?logo=numpy&logoColor=white)](https://numpy.org/)
 
 ---
 
