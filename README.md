@@ -1,10 +1,7 @@
 # Real-Time Social Distance Estimation Using YOLO CNN and Euclidean Distance.
 The work was carried out as an **undergraduate thesis** for the degree of **B.Sc. in Computer Science and Engineering** at the **International Islamic University Chittagong (IIUC)**.
-- 🐍 **Python** – Primary programming language  
-- 📸 **OpenCV** – Real-time computer vision processing  
-- 🎯 **YOLOv3** – Object detection model  
-- 🖼️ **COCO Dataset** – Dataset for person detection  
-- 🔢 **NumPy** – Numerical computations and array operations
+🐍 **Python** &nbsp;&nbsp;📸 **OpenCV** &nbsp;&nbsp;🎯 **YOLOv3** &nbsp;&nbsp;🖼️ **COCO Dataset** &nbsp;&nbsp;🔢 **NumPy**
+
 ---
 
 ## Abstract 🧠
