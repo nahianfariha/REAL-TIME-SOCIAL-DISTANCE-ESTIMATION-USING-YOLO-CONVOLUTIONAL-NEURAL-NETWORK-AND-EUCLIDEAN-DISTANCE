@@ -34,7 +34,7 @@ Public gatherings increase the likelihood of virus transmission due to close phy
 
 ## System Architecture & Methodology ⚙️
 <p align="center">
-  <img src="img/arc1.png" alt="Real-Time Social Distance Estimation Architecture" width="400"/>
+  <img src="img/arc1.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
 </p>
 ### Workflow Diagram
 
@@ -109,7 +109,7 @@ Tracking Accuracy (%) = (Correctly Detected Persons × 100) / Total Persons
 
 ### Results Summary
 <p align="center">
-  <img src="img/arc9.png" alt="Real-Time Social Distance Estimation Architecture" width="400"/>
+  <img src="img/arc9.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
 </p>
 
 ---
