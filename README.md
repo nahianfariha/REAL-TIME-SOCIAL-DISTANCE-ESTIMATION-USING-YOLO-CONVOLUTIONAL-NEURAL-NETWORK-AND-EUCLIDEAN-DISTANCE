@@ -40,13 +40,7 @@ Make sure you have the following installed:
 pip install opencv-python numpy scipy imutils
 ```
 
-Also ensure the YOLOv3 weights, config, and COCO names are in the yolo-coco directory:
-
-yolov3.weights
-
-yolov3.cfg
-
-coco.names
+Also ensure the yolov3.weights, yolov3.cfg, and coco.names are in the yolo-coco directory.
 
 ##▶️ How to Run
 
