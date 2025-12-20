@@ -1,10 +1,10 @@
 <!-- Architecture / System Overview Image -->
 
 <p align="center">
-  <img src="assets/architecture.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+  <img src="img/arc1.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
 </p>
 
-# Real-Time Social Distance Estimation Using YOLO CNN and Euclidean Distance 😷📏
+# Real-Time Social Distance Estimation Using YOLO CNN and Euclidean Distance.
 
 ## Project Overview
 
