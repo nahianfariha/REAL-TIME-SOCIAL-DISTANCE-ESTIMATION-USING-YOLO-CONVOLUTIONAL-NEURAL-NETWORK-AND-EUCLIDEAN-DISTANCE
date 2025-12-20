@@ -101,8 +101,11 @@ Tracking Accuracy (%) = (Correctly Detected Persons × 100) / Total Persons
 
 ## Conclusion 🏁
 
-The proposed system demonstrates strong performance in real-time social distance estimation using YOLO and Euclidean distance. With an average tracking accuracy of approximately 90%, the model proves effective for monitoring social distancing from top-down CCTV footage.
-
+This research has been directed a precise review where the new advancement of deep learning 
+networks object recognition is obvious, deep models have essentially improved execution, 
+however there are as yet numerous challenges and difficulties. With YOLO in a scientific 
+python development environment we got 90% of tracking accuracy which proves it’s 
+tremendous performance as a Social Distance Detection system. 
 ---
 
 ## Future Work 🔮
