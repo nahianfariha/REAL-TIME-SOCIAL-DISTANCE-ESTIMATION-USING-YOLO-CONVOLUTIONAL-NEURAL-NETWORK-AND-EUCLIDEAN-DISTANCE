@@ -42,7 +42,7 @@ pip install opencv-python numpy scipy imutils
 
 Also ensure the yolov3.weights, yolov3.cfg, and coco.names are in the yolo-coco directory.
 
-##▶️ How to Run
+## ▶️ How to Run
 
 Run with a video file:
 
