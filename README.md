@@ -19,6 +19,10 @@ The system works on **top-down real-time videos**, detects people, and estimates
 
 ---
 
+<p align="center">
+  <img src="img/arc0.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+</p>
+
 ## Objectives 🎯
 
 * To estimate social distance in **real-time** from video footage
@@ -27,6 +31,35 @@ The system works on **top-down real-time videos**, detects people, and estimates
 * To evaluate tracking accuracy across **six different environments**
 
 ---
+
+## 📁 Project Structure
+
+.
+├── mainFile.py # Main social distance detection script
+├── yolo-coco/ # YOLO model files: cfg, weights, class names
+├── input/ # Sample input videos
+├── output/ # Output annotated videos
+└── README.md # Project documentation
+
+---
+
+## 📦 Requirements
+
+Make sure you have the following installed:
+
+```bash
+pip install opencv-python numpy scipy imutils
+Also ensure the YOLOv3 weights, config, and COCO names are in the yolo-coco directory:
+
+yolov3.weights
+
+yolov3.cfg
+
+coco.names
+
+---
+
+
 
 ## Methodology ⚙️
 <p align="center">
