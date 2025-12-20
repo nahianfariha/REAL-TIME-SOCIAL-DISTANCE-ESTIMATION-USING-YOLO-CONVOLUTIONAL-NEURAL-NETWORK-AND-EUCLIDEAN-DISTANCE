@@ -48,20 +48,19 @@ yolov3.cfg
 
 coco.names
 
----
 ##▶️ How to Run
 
-Run with a video file
+Run with a video file:
 
 ```bash
 python mainPythonFile.py --input crowded.mp4 --display 1
 
 ```
-Run with webcam
+Run with webcam:
 ```bash
 python mainPythonFile.py --display 1
 ```
-Save output video
+Save output video:
 ```bash
 python mainPythonFile.py --input crowded.mp4 --output out.avi
 ```
