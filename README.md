@@ -1,9 +1,3 @@
-<!-- Architecture / System Overview Image -->
-
-<p align="center">
-  <img src="img/arc1.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
-</p>
-
 # Real-Time Social Distance Estimation Using YOLO CNN and Euclidean Distance.
 
 ## Project Overview
@@ -22,11 +16,6 @@ The system works on **top-down real-time videos**, detects people, and estimates
 
 ---
 
-## Keywords 🔑
-
-Social Distancing, Person Detection, Distance Estimation, Python, YOLO, CNN
-
----
 
 ## Problem Statement 🚨
 
@@ -44,7 +33,9 @@ Public gatherings increase the likelihood of virus transmission due to close phy
 ---
 
 ## System Architecture & Methodology ⚙️
-
+<p align="center">
+  <img src="img/arc1.png" alt="Real-Time Social Distance Estimation Architecture" width="400"/>
+</p>
 ### Workflow Diagram
 
 ```text
@@ -97,11 +88,7 @@ Social Distance Violation Detection
 * Argparse
 * SciPy 1.4.1
 
-### Hardware
 
-* CUDA-capable GPU setup
-
----
 
 ## Experimental Setup & Results 📊
 
@@ -121,15 +108,9 @@ Tracking Accuracy (%) = (Correctly Detected Persons × 100) / Total Persons
 ```
 
 ### Results Summary
-
-* Good Quality Footage: 99%
-* Fuzzy Footage: 64%
-* Daylight Footage: 87%
-* Nightlight Footage: 92%
-* Less Populated Footage: 100%
-* Crowded Footage: 98%
-
-✅ **Average Tracking Accuracy: ~90%**
+<p align="center">
+  <img src="img/arc9.png" alt="Real-Time Social Distance Estimation Architecture" width="400"/>
+</p>
 
 ---
 
