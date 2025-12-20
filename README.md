@@ -106,6 +106,7 @@ networks object recognition is obvious, deep models have essentially improved ex
 however there are as yet numerous challenges and difficulties. With YOLO in a scientific 
 python development environment we got 90% of tracking accuracy which proves it’s 
 tremendous performance as a Social Distance Detection system. 
+
 ---
 
 ## Future Work 🔮
