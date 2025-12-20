@@ -89,7 +89,7 @@ Tracking Accuracy (%) = (Correctly Detected Persons × 100) / Total Persons
 <p align="center">
   <img src="img/arc8.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
 </p>
-
+(For more, read our thesis book given in the repository.)
 <p align="center">
   <img src="img/arc9.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
 </p>
