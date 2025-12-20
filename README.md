@@ -20,7 +20,7 @@ The system works on **top-down real-time videos**, detects people, and estimates
 ---
 
 <p align="center">
-  <img src="img/arc0.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
+  <img src="arc0.png" alt="Real-Time Social Distance Estimation Architecture" width="800"/>
 </p>
 
 ## Objectives 🎯
