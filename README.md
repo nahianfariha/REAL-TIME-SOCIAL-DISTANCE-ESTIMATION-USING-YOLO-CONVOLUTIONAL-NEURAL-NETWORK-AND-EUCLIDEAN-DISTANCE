@@ -49,7 +49,8 @@ yolov3.cfg
 coco.names
 
 ---
-▶️ How to Run
+##▶️ How to Run
+
 Run with a video file
 
 ```bash
